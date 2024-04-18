@@ -123,16 +123,17 @@ color: rgb(136, 134, 134);
 .s4{
     display: flex;
     margin-top: 3rem;
+    align-items: center;
 }
 .s4 i{
     font-size: 2rem;
-    margin-top: 0.4rem;
+    margin-top: 1.5rem;
     margin-left: 2rem;
     margin-right: .5rem;
     cursor: pointer;
 }
 .s4 a{
-    margin-top: 0.7rem;
+    margin-top: 1.5rem;
     font-size: 1.3rem;
     font-weight: bold;
     cursor: pointer;
